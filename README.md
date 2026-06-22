@@ -8,7 +8,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em tecnol
 Atualmente estou desenvolvendo conhecimentos em programação, bancos de dados, desenvolvimento web, desenvolvimento mobile e ferramentas voltadas para criação de projetos tecnológicos.
 
 ---
+# Portfólio
 
+Portfólio profissional:
+
+https://lelio-portfolio.leliocsneto.workers.dev
+
+No portfólio você encontrará informações sobre minha trajetória profissional, projetos desenvolvidos, certificações, habilidades técnicas e currículo para download.
+
+---
 ## Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
